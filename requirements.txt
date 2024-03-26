@@ -1,10 +1,5 @@
-
 Flask==2.0.1
+numpy==1.21.2  # Asegúrate de usar una versión compatible con tu versión de scikit-learn
+scipy==1.7.1   # scipy a veces también es necesario antes de scikit-learn
 joblib==1.0.1
 scikit-learn==0.24.2
-gunicorn==19.9.0
-numpy==1.20.3
-pandas==1.2.4
-protobuf==3.19.0
-Jinja2==3.0
-markupsafe
