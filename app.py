@@ -3,8 +3,6 @@ import sklearn
 from sklearn.externals import joblib
 import streamlit as st
 
-
-
 # Inicializar la aplicación Flask
 app = Flask(__name__)
 
@@ -71,9 +69,9 @@ def index():
     return render_template_string(INDEX_HTML, questions=questions_with_index)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
 
-
+'''
 from flask import Flask, jsonify, request
 from sklearn.externals import joblib
 import sklearn
@@ -97,3 +95,4 @@ def predecir():
 
 if __name__ == '__main__':
     app.run()
+'''
