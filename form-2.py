@@ -15,7 +15,7 @@ SMTP_PASSWORD = 'abbY@8561'
 # Información de los proveedores y sus correos electrónicos
 PROVEEDORES = {
     'Jose Serra': 'jose.serra@upr.edu',
-    'Proveedor B': 'correoB@example.com',
+    'Solimar Pérez': 'solimar.perez1@upr.edu',
     'Proveedor C': 'correoC@example.com',
 }
 
