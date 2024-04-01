@@ -14,7 +14,7 @@ SMTP_PASSWORD = 'password'
 
 # Información de los proveedores y sus correos electrónicos
 PROVEEDORES = {
-    'Jose Serra, Trabajo Social, Plan Reforma, UPR, San Juan': 'jose.serra@upr.edu',
+    'Jose Serra, Trabajo Social, Plan Reforma, UPR, San Juan, 787-367-0000': 'jose.serra@upr.edu',
     'Solimar Pérez, Consejeria en Rehabilitación': 'solimar.perez1@upr.edu',
     'Proveedor C': 'correoC@example.com',
 }
