@@ -7,14 +7,14 @@ from email.mime.base import MIMEBase
 from email import encoders
 
 # Debes configurar estos valores según tu servidor de correo y cuenta
-SMTP_SERVER = 'smtp.tu-servidor.com'
+SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT = 587  # o 465 para SSL
-SMTP_USER = 'tu-usuario'
-SMTP_PASSWORD = 'tu-contraseña'
+SMTP_USER = 'jserrataylor'
+SMTP_PASSWORD = 'abbY@8561'
 
 # Información de los proveedores y sus correos electrónicos
 PROVEEDORES = {
-    'Proveedor A': 'correoA@example.com',
+    'Jose Serra': 'jose.serra@upr.edu',
     'Proveedor B': 'correoB@example.com',
     'Proveedor C': 'correoC@example.com',
 }
