@@ -9,7 +9,7 @@ from email import encoders
 # Debes configurar estos valores según tu servidor de correo y cuenta
 SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT = 587  # o 465 para SSL
-SMTP_USER = 'emai@mail.com'
+SMTP_USER = 'email@mail.com'
 SMTP_PASSWORD = 'password'
 
 # Información de los proveedores y sus correos electrónicos
